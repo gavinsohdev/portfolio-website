@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gavinsohdev.github.io/portfolio-website/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
@@ -24,7 +25,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "watch:css": "postcss src/styles/tailwind.css -o src/styles/output.css"
+    "watch:css": "postcss src/styles/tailwind.css -o src/styles/output.css",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -46,6 +49,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.5",
+    "gh-pages": "^6.1.1",
     "postcss": "^8.4.13",
     "postcss-cli": "^9.1.0",
     "tailwindcss": "^3.0.24"

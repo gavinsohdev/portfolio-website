@@ -380,7 +380,7 @@ module.exports = {
     },
     fontFamily: {
       sans: [
-        "ui-sans-serif",
+        "'Arial'",
         "system-ui",
         "-apple-system",
         "BlinkMacSystemFont",

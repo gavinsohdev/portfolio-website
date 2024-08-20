@@ -2,12 +2,10 @@
   background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
 }
 
-.text-gardient {
+.text-gradient {
   background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-.headers {
-  background-image: url("https://demos.onepagelove.com/html/leno/images/header-background.jpg");
-}
+html { scroll-behavior: smooth; }

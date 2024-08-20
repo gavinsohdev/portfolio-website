@@ -26,8 +26,8 @@ function Footer() {
       title: t("Footer.Company"),
       links: [
         {
-          name: t("Footer.About"),
-          path: "/about",
+          name: t("Footer.Skills"),
+          path: "/skills",
         },
         {
           name: t("Footer.Meet the team"),
@@ -107,15 +107,15 @@ function Footer() {
           <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
             <div className="">
               <img
-                src="https://seeklogo.com/images/B/business-company-logo-32B09603F1-seeklogo.com.png"
-                className="mr-5 h-20 w-20  sm:h-16"
+                // src={ company_logo }
+                className="lg:ml-8 mx-auto h-20 w-20 sm:h-16"
                 alt="logo"
               />
-              <p className="max-w-xs mt-4 text-sm ">
+              {/* <p className="max-w-xs mt-4 text-sm ">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Voluptas, accusantium.
-              </p>
-              <div className="flex mt-8 space-x-6 0">
+              </p> */}
+              {/* <div className="flex mt-8 space-x-6 0">
                 {socialMedia.map((item, i) => (
                   <a
                     key={i + 1}
@@ -130,7 +130,7 @@ function Footer() {
                     </span>
                   </a>
                 ))}
-              </div>
+              </div> */}
             </div>
             <div className="grid grid-cols-2 gap-8 lg:col-span-2 sm:grid-cols-2 tab:grid-cols-3 lg:grid-cols-4">
               {BottomSection.map((item, i) => (

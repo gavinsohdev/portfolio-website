@@ -1,0 +1,76 @@
+{
+  "translation": {
+    "Home": {
+      "title": "Web",
+      "title2": "エンジニア",
+      "Action": "アクション",
+      "Contact Us": "お問い合わせ",
+      "Click_message": "gavinsoh.dev@gmail.com",
+      "text": "私はシンガポールを拠点とするWebエンジニアです。フロントエンドの洗練されたUI設計から、サーバサイドの高度なシステム構築まで、私はユーザーにとって快適で、個性が際立つ体験を提供することに力を注いでいます。"
+    },
+    "Pricing": {
+      "Title1": "料金",
+      "Title2": "プラン",
+      "Description": "プロジェクトの予算、期間、納期に合わせて最適なプランをお選びください",
+      "Middle-Plan": "スタンダード",
+      "Middle-Plan-Price": 2700,
+      "Middle-Plan-Point-1": "ベーシックのすべての機能",
+      "Middle-Plan-Point-2": "2回の修正",
+      "Middle-Plan-Point-3": "4日間の納期",
+      "Left-Plan": "ベーシック",
+      "Left-Plan-Price": 2200,
+      "Left-Plan-Point-1": "デザインのカスタマイズ",
+      "Left-Plan-Point-2": "ソースコードの提供",
+      "Left-Plan-Point-3": "詳細なコードコメント",
+      "Right-Plan": "プレミアム",
+      "Right-Plan-Price": 3900,
+      "Right-Plan-Point-1": "ベーシックのすべての機能",
+      "Right-Plan-Point-2": "最大5回の修正",
+      "Right-Plan-Point-3": "3日間の納期",
+      "Hour": "1時間",
+      "Popular": "人気",
+      "Currency": "¥",
+      "Button": "プランを選ぶ"
+    },
+    "Nav": {
+      "Name": "ガビン ソ",
+      "Home": "ホーム",
+      "Skills": "スキル",
+      "Services": "サービス",
+      "Contact": "お問い合わせ",
+      "Pricing": "価格"
+    },
+    "Footer": {
+      "Company": "会社",
+      "Skills": "スキル",
+      "company_name": "Cookie Oppa",
+      "Meet the team": "チーム紹介",
+      "History": "歴史",
+      "Careers": "キャリア",
+      "Contact": "お問い合わせ",
+      "Web-Development": "ウェブ開発",
+      "Web-Design": "ウェブデザイン",
+      "Mobile-Development": "モバイル開発",
+      "Back-end-Development": "サーバサイド開発",
+      "Back-end-Development-text": "NodeやFlaskを使用したAPIサービスのバックエンド開発、JWT認証の実装",
+      "Front-end-Development": "フロントエンド開発",
+      "Front-end-Development-text": "React、Vue、またはAngularを使用したフロントエンドのレスポンシブWebアプリケーション開発",
+      "DevOps": "サーバ設定・クラウド上にサーバを構築",
+      "DevOps-text": "クラウドホステッドのLinuxサーバーへのデプロイメント",
+      "Graphic-Design": "グラフィックデザイン",
+      "UI-UX-Design": "UI/UXデザイン",
+      "Copy-Right": "著作権",
+      "Privacy-Policy": "プライバシーポリシー",
+      "Terms-Of-Use": "利用規約",
+      "Sitemap": "サイトマップ",
+      "Help": "ヘルプリンク",
+      "legal": "法的情報",
+      "Faq": "よくある質問",
+
+      "Support": "サポート",
+      "Blog": "ブログ",
+      "Accessibility": "アクセシビリティ",
+      "Disclaimer": "免責事項"
+    }
+  }
+}

@@ -8,7 +8,7 @@ const Toggle = () => {
 
   return (
     <div
-      className="transition duration-500 ease-in-out rounded-full p-2"
+      className="transition duration-500 ease-in-out rounded-full p-2 ml-6"
       title="Toggle theme"
     >
       {theme === "dark" ? (

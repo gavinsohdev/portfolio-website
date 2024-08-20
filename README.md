@@ -2,14 +2,14 @@
 
 ## About Project
 
-This is just normal portfolio which allow you to use multiple Theme like **Dark** and **White** as well this support **multiple language** so you can easily switch between language by click on flag icon from Top Nav button, current i have added two language `EN & Pl` But you can simply add another langauge.
+This is a vanilla portfolio website with dual theme swapping, i.e. **Dark** and **White**, as well as **Dual Language** toggling, i.e. `EN & JP`.
 
-- Theme Support
-- MultiLanguage support
-- Responsive Website that support (Laptop, Phone, Tab )
-- Built with React js, Tailwindcss, Javscript
+- Theming Support
+- Dual-Language Support
+- Responsive Website
+- Built with React js, Tailwind CSS, Javscript
 
-If you like this project please give start and share to another.
+If you like this project, please share the word.
 
 ## Available Scripts
 
@@ -20,7 +20,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
+Has hot-reloading.\
 You may also see any lint errors in the console.
 
 ### `npm test`

@@ -2,10 +2,10 @@ import i18n from "i18next";
 import LanguageDetector from "i18next-browser-languagedetector";
 import { initReactI18next } from "react-i18next";
 import en from "./Components/Language/English/en";
-import pl from "./Components/Language/Polish/pl";
+import jp from "./Components/Language/Japanese/jp";
 
 const resources = {
-  pl: pl,
+  jp: jp,
   en: en,
 };
 
@@ -14,10 +14,10 @@ i18n
   .use(LanguageDetector)
   .init({
     resources,
-    // lng: "pl", // default language
-    fallbackLng: ["en", "pl"],
-    preload: ["en", "pl"],
-    whitelist: ["en", "pl"],
+    // lng: "jp", // default language
+    fallbackLng: ["en", "jp"],
+    preload: ["en", "jp"],
+    whitelist: ["en", "jp"],
     debug: true,
     initImmediate: false,
     saveMissing: true,
